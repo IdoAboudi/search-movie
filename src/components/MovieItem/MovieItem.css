@@ -1,0 +1,14 @@
+.movie-item{
+    display: flex;
+    justify-content: center;
+    margin: 5% 2% 5% 2%;
+}
+
+.table-details{
+    margin: 6% 8% 3% 5%;
+}
+
+.err {
+    font-weight: bold;
+    margin-top: 0.5%;
+}

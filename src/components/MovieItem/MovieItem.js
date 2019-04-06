@@ -1,6 +1,10 @@
 import React from 'react'
 import './MovieItem.css'
 
+/**
+ * 
+ *  Display movie content 
+ */
 const MovieItem = ({ movie, error }) => {
     return <div >
         {
